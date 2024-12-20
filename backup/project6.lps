@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="IndirectSorting"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="189"/>
+        <CursorPos Y="229"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="project6.lpr"/>
+        <Caret Line="79" Column="5" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="project6.lpr"/>
+        <Caret Line="74" Column="86" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="project6.lpr"/>
+        <Caret Line="80" Column="5" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="project6.lpr"/>
+        <Caret Line="55" TopLine="40"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

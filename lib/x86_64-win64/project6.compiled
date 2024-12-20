@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\azizr\OneDrive\Рабочий стол\6lab\lib\x86_64-win64&quot; &quot;-FuC:\Users\azizr\OneDrive\Рабочий стол\6lab\&quot; &quot;-FUC:\Users\azizr\OneDrive\Рабочий стол\6lab\lib\x86_64-win64\&quot; &quot;-FEC:\Users\azizr\OneDrive\Рабочий стол\6lab\&quot; &quot;-oC:\Users\azizr\OneDrive\Рабочий стол\6lab\project6.exe&quot; project6.lpr"/>
+</CONFIG>
